@@ -5,6 +5,7 @@
 # Find more information on toml format here:  https://github.com/toml-lang/toml
 # The name of the mod loader type to load - for regular FML @Mod mods it should be javafml
 modLoader="javafml" #mandatory
+license="MIT" #mandatory
 # A version range to match for said mod loader - for regular FML @Mod it will be the forge version
 loaderVersion="[26,)" #mandatory (26 is current forge version)
 # A URL to refer people to when problems occur with this mod
@@ -24,7 +25,7 @@ displayName="No Increasing Repair Cost" #mandatory
 # A file name (in the root of the mod JAR) containing a logo for display
 # logoFile="examplemod.png" #optional
 # A text field displayed in the mod UI
-# credits="Thanks for this example mod goes to Java" #optional
+ credits="updated for 1.16.3 by enosich@github" #optional
 # A text field displayed in the mod UI
 authors="CursedFlames" #optional
 # The description text for the mod (multi line!) (#mandatory)
