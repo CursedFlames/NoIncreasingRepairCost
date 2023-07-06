@@ -1,1 +1,2 @@
-Disables the increasing repair/enchant cost on items in anvils.
+# Archived
+Moved to https://github.com/CursedFlames/MCTweaks
